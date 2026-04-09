@@ -1,0 +1,11 @@
+.*
+!/.gitignore
+.ipynb_checkpoints/
+*.pkl
+*.png
+My_Tasks/6_data/
+My_Tasks/6_plots/
+My_Tasks/7_data/
+My_Tasks/7_plots/
+__pycache__/
+*.ipynb_checkpoints
