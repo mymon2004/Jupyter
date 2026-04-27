@@ -3,9 +3,11 @@
 .ipynb_checkpoints/
 *.pkl
 *.png
-My_Tasks/6_data/
-My_Tasks/6_plots/
-My_Tasks/7_data/
-My_Tasks/7_plots/
+my_tasks/6_data/
+my_tasks/6_plots/
+my_tasks/7_data/
+my_tasks/7_plots/
+my_tasks/8_data/
+my_tasks/8_plots/
 __pycache__/
 *.ipynb_checkpoints
